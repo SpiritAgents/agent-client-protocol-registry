@@ -1,0 +1,17 @@
+{
+  "id": "spirit-agent",
+  "name": "Spirit Agent",
+  "version": "0.2.6",
+  "description": "An open-source AI agent built to multiply your productivity.",
+  "repository": "https://github.com/N123999/SpiritAgent",
+  "website": "https://spirit.fast",
+  "authors": [
+    "N123999"
+  ],
+  "license": "MIT",
+  "distribution": {
+    "npx": {
+      "package": "@spirit-agent/acp-server@0.2.6"
+    }
+  }
+}
